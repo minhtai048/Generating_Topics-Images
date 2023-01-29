@@ -45,7 +45,7 @@ def main():
 
             time.sleep(1)
 
-            # !! Start the LRP !!
+            # !! Start the app !!
             requests.get(f'{API_BASE_URL}/run')
 
             state.API_STARTED = True
