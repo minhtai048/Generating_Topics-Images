@@ -4,4 +4,4 @@ The main purpose of the this model is intended to build an app that can generati
 
 The model was trained and saved in "model" folder for serving the app.
 
-The model accuracy is ~90% with 350 images as test set
+The model accuracy is ~90% with 350 images as test set.
