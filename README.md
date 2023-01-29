@@ -1,5 +1,5 @@
 # Simple Streamlit + FastAPI Integration For Generating Topics
-A minimal Streamlit app showing how to launch and stop a FastAPI process on demand. The FastAPI `/run` route simulates a long-running process which is launched on a separate thread. 
+This streamlit app is used for demonstration of generating topics with movie poster which can be used for classifying topics in Recommender System.  
 
 Ensure the required packages are installed:
 
