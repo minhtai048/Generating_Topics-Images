@@ -23,7 +23,7 @@ if 'API_STARTED' not in state:
 def main():
     st.title('Welcome to Generating Topics App')
 
-    # RUN LRP
+    # RUN APP
     if not state.API_STARTED:
         st.write('To launch app click the button below.')
         if st.button('Launch'):
