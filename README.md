@@ -1,4 +1,4 @@
-# Simple Streamlit + FastAPI Integration
+# Simple Streamlit + FastAPI Integration For Generating Topics
 A minimal Streamlit app showing how to launch and stop a FastAPI process on demand. The FastAPI `/run` route simulates a long-running process which is launched on a separate thread. 
 
 Ensure the required packages are installed:
